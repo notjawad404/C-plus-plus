@@ -1,3 +1,6 @@
+// Created a for loop program that takes 2 numbers as input and prints the numbers between them. 
+//It print 0-9 in English alphabet and 10 or greater numbers in even or odd.
+
 #include <iostream>
 #include <cstdio>
 using namespace std;
